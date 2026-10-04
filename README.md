@@ -1,8 +1,6 @@
-````md
 # AcadMate AI
 ## An Agentic System for Academic and Placement Management
 
----
 
 # 📌 Project Overview
 
@@ -10,7 +8,6 @@ AcadMate AI is an intelligent multi-agent AI platform designed to help college s
 
 The platform uses Agentic AI concepts where multiple AI agents collaborate to perform different tasks such as planning, monitoring, decision-making, recommendations, and opportunity tracking.
 
----
 
 # 🎯 Problem Statement
 
@@ -31,7 +28,7 @@ Existing planners are static and do not adapt according to student performance o
 
 AcadMate AI solves this problem by creating an intelligent adaptive system that continuously guides students.
 
----
+
 
 # 🎯 Objectives
 
@@ -45,7 +42,7 @@ AcadMate AI solves this problem by creating an intelligent adaptive system that 
 
 5. Recommend relevant opportunities such as hackathons and internships.
 
----
+
 
 # 👥 Target Users
 
@@ -55,7 +52,7 @@ AcadMate AI solves this problem by creating an intelligent adaptive system that 
 - Students preparing for technical roles
 - Learners needing structured guidance
 
----
+
 
 # 🧠 Core Features
 
@@ -65,28 +62,28 @@ AcadMate AI solves this problem by creating an intelligent adaptive system that 
 - Collect available study hours
 - Store student preferences
 
----
+
 
 ## 2. AI Planner
 - Generate personalized schedules
 - Create daily and weekly plans
 - Balance academics and placement prep
 
----
+
 
 ## 3. Progress Tracking
 - Track study hours
 - Track completed tasks
 - Monitor productivity
 
----
+
 
 ## 4. Adaptive Decision System
 - Analyze student performance
 - Modify schedules dynamically
 - Prioritize tasks intelligently
 
----
+
 
 ## 5. Placement Guidance
 - DSA roadmap
@@ -94,7 +91,7 @@ AcadMate AI solves this problem by creating an intelligent adaptive system that 
 - Resume suggestions
 - Learning resources
 
----
+
 
 ## 6. Opportunity Recommendation
 - Suggest hackathons
@@ -102,14 +99,14 @@ AcadMate AI solves this problem by creating an intelligent adaptive system that 
 - Suggest coding events
 - Filter opportunities based on interests
 
----
+
 
 ## 7. Notification System
 - Reminders
 - Deadline alerts
 - Productivity notifications
 
----
+
 
 # 🧩 Agentic AI Architecture
 
@@ -124,7 +121,7 @@ The system consists of multiple intelligent agents:
 | Opportunity Agent | Recommends hackathons/internships |
 | Notification Agent | Sends alerts and reminders |
 
----
+
 
 # ⚙️ System Workflow
 
@@ -148,7 +145,7 @@ Recommendation & Opportunity Agents
 Dashboard Output
 ```
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -189,7 +186,7 @@ OR
 - GitHub
 - Postman
 
----
+
 
 # 🧱 Project Modules
 
@@ -205,7 +202,7 @@ OR
 - Placement goals
 - Study hours
 
----
+
 
 ## Module 2: Planning Agent
 ### Responsibilities
@@ -217,7 +214,7 @@ OR
 - Daily schedule
 - Weekly roadmap
 
----
+
 
 ## Module 3: Tracking Module
 ### Responsibilities
@@ -225,7 +222,7 @@ OR
 - Record completed tasks
 - Measure productivity
 
----
+
 
 ## Module 4: Decision Agent
 ### Responsibilities
@@ -237,7 +234,7 @@ OR
 - Exams near → increase academic focus
 - Placement season → increase DSA/projects focus
 
----
+
 
 ## Module 5: Recommendation Agent
 ### Responsibilities
@@ -245,7 +242,7 @@ OR
 - Recommend projects
 - Provide resume guidance
 
----
+
 
 ## Module 6: Opportunity Agent
 ### Responsibilities
@@ -259,7 +256,7 @@ OR
 - HackerEarth
 - Static datasets (MVP)
 
----
+
 
 ## Module 7: Notification Agent
 ### Responsibilities
@@ -267,7 +264,7 @@ OR
 - Alert missed schedules
 - Show urgent deadlines
 
----
+
 
 # 🗄️ Database Design
 
@@ -301,7 +298,7 @@ OR
 }
 ```
 
----
+
 
 # 🎨 Frontend Dashboard Features
 
@@ -315,7 +312,7 @@ OR
 - Notifications Panel
 - Settings
 
----
+
 
 # 📊 Proposed Outcomes
 
@@ -326,7 +323,7 @@ OR
 - Personalized recommendations
 - Real-world AI application
 
----
+
 
 # 🧪 Implementation Phases
 
@@ -335,38 +332,38 @@ OR
 - Build student input module
 - Create simple planner
 
----
+
 
 ## Phase 2
 - Implement AI schedule generation
 - Add database integration
 
----
+
 
 ## Phase 3
 - Build tracking module
 - Store progress data
 
----
+
 
 ## Phase 4
 - Implement adaptive scheduling
 - Add decision agent
 
----
+
 
 ## Phase 5
 - Add placement guidance
 - Add opportunity recommendation
 
----
+
 
 ## Phase 6
 - Improve UI/UX
 - Final testing
 - Deployment
 
----
+
 
 # 📂 Recommended Folder Structure
 
@@ -394,7 +391,6 @@ acadmate-ai/
 └── README.md
 ```
 
----
 
 # 🚀 Future Scope
 
@@ -405,12 +401,10 @@ acadmate-ai/
 - College-wide deployment
 - Predictive analytics for student performance
 
----
+
 
 # 🎯 Conclusion
 
 AcadMate AI is an intelligent multi-agent system that helps students balance academics and placements through adaptive planning, tracking, and AI-driven guidance. The platform aims to improve productivity, time management, and career readiness while demonstrating the practical application of Agentic AI in education.
 
----
-````
 
